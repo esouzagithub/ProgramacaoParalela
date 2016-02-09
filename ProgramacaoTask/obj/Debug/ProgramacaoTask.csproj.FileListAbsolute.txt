@@ -1,0 +1,6 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoTask\bin\Debug\ProgramacaoTask.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoTask\bin\Debug\ProgramacaoTask.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoTask\bin\Debug\ProgramacaoTask.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoTask\obj\Debug\ProgramacaoTask.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoTask\obj\Debug\ProgramacaoTask.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoTask\obj\Debug\ProgramacaoTask.csprojResolveAssemblyReference.cache

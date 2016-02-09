@@ -1,0 +1,9 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\WFAwaitAsync\bin\Debug\WFAwaitAsync.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\WFAwaitAsync\bin\Debug\WFAwaitAsync.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\WFAwaitAsync\bin\Debug\WFAwaitAsync.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\WFAwaitAsync\obj\Debug\WFAwaitAsync.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\WFAwaitAsync\obj\Debug\WFAwaitAsync.FrmTest.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\WFAwaitAsync\obj\Debug\WFAwaitAsync.Properties.Resources.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\WFAwaitAsync\obj\Debug\WFAwaitAsync.csproj.GenerateResource.Cache
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\WFAwaitAsync\obj\Debug\WFAwaitAsync.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\WFAwaitAsync\obj\Debug\WFAwaitAsync.pdb

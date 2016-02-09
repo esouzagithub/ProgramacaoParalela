@@ -1,0 +1,6 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoParalelaThread\bin\Debug\ProgramacaoParalelaThread.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoParalelaThread\bin\Debug\ProgramacaoParalelaThread.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoParalelaThread\bin\Debug\ProgramacaoParalelaThread.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoParalelaThread\obj\Debug\ProgramacaoParalelaThread.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoParalelaThread\obj\Debug\ProgramacaoParalelaThread.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\ProgramacaoParalela\ProgramacaoParalelaThread\obj\Debug\ProgramacaoParalelaThread.csprojResolveAssemblyReference.cache
